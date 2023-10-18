@@ -1,2 +1,1 @@
-# hack
-A sample rep
+## HacktoberFest
