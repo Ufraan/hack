@@ -1,1 +1,1 @@
-## HacktoberFast
+## HacktoberFest
